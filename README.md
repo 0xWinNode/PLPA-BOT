@@ -35,50 +35,6 @@ Listing 13 Nov
 - TapTap 
 - **Done**
 
-## Join My Telegram Channel
-```
-                                                          
-                      ...                                 
-                     .;:.                                 
-                    .;ol,.                                
-                   .;ooc:'                                
-            ..    .;ooccc:'.    ..                        
-          .',....'cdxlccccc;.....,'.                      
-         .;;..'';clolccccccc:,''..;;.                     
-        ':c'..':cccccccccccccc;...'c:.                    
-       ':cc,.'ccccccccccccccccc:..;cc:'                   
-    ...:cc;.':cccccccccccccccccc:..:cc:...                
-   .;';cc;.':;;:cccccccccccccc:;;;'.;cc,,;.               
-  .cc':c:.',.....;cccccccccc;.....,..:c:'c:               
-  ,x:'cc;.,'     .':cccccc:'.     ',.;cc':x'              
-  lO,'cc;.;,       .;cccc:.       ,;.;cc';0l              
- .o0;.;c;.,:'......',''''''......':,.;c;.:0l.             
- .lxl,.;,..;c::::;:,.    .,:;::::c;..,;.,oxl.             
- .lkxOl..  ..'..;::'..''..'::;..'..  ..c0xkl.             
-  .cKMx.        .;c:;:cc:;:c:.        .xMKc.              
-    ;KX:         ;o::l:;cc;o:.        ;KK;                
-     :KK:.       ,d,cd,'ol'o:       .:0K:                 
-      ;0NOl:;:loo;. ... .. .;ldlc::lkN0:                  
-       .lONNNKOx0Xd,;;'.,:,lKKkk0XNN0o.                   
-         .','.. .lX0doooodOXd.  .','.                     
-                 .,okkddxkd;.                             
-                    'oxxd;.                               
-   ........................................                              
-   .OWo  xNd lox  xxl Ald   xoc dakkkkkxsx.              
-   .OWo  o0W cXW  dM0 MMN   lNK laddKMNkso.               
-   .kMKoxsNN oWX  dW0 MMMWO lWK    axM0   .                
-   .OMWXNaMX dM0  kM0 MMKxNXKW0    axMk   .                 
-   .OMk  dWK oWX XWdx Mxx  XMMO    akMx   .                 
-   'OWo  dM0 'kNNXNNd DMD   OWk    aoWd   .                 
-   ........................................
-
-```           
-                                              
-                                              
-
-Anyway i create new telegram channel just for sharing bot or airdrop, join here
-[**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
-
 ## Prerequisite
 
 - Git
@@ -98,11 +54,11 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 
 1. clone project repo
    ```
-   git clone https://github.com/Widiskel/plpa-bot
+   git clone https://github.com/0xWinNode/PLPA-BOT.git
    ```
    and cd to project dir
    ```
-   cd plpa-bot
+   cd PLPA-BOT
    ```
 2. Run
    ```
@@ -132,11 +88,11 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/plpa-bot
+   git clone https://github.com/0xWinNode/PLPA-BOT
    ```
    and cd to project dir
    ```
-   cd plpa-bot
+   cd PLPA-BOT
    ```
 3. Run
    ```
@@ -214,11 +170,3 @@ if you got error `Invalid ConstructorId` try to run this `npm i telegram@2.22.2`
 
 Feel free to fork and contribute adding more feature thanks. To get original unencrypted code just Join my channel and DM me, original code (index.js and src folder) are Obfuscated during build
 
-## SUPPORT
-
-want to support me for creating another bot ?
-**star** my repo or buy me a coffee on
-
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
-
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
